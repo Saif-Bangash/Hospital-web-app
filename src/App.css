@@ -1,0 +1,15 @@
+.drawer-330px {
+    width: 330px;
+    position: fixed; 
+    right: 0;
+    height: 100%; 
+    background-color: #fff;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+    z-index: 999; 
+    transition: transform 0.3s ease;
+  }
+  
+  .drawer-container {
+    position: relative;
+    z-index: 999; 
+  }
